@@ -1,0 +1,20 @@
+C:\Users\nsi\Desktop\Elixis\Elixis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nsi\Desktop\Elixis\Elixis\bin\Debug\Elixis.dll
+C:\Users\nsi\Desktop\Elixis\Elixis\bin\Debug\Elixis.pdb
+C:\Users\nsi\Desktop\Elixis\Elixis\obj\Debug\Elixis.dll
+C:\Users\nsi\Desktop\Elixis\Elixis\obj\Debug\Elixis.pdb
+D:\NSi Files\Programs\C#\Elixis\Elixis\bin\Debug\Elixis.dll
+D:\NSi Files\Programs\C#\Elixis\Elixis\bin\Debug\Elixis.pdb
+D:\NSi Files\Programs\C#\Elixis\Elixis\obj\Debug\ResolveAssemblyReference.cache
+D:\NSi Files\Programs\C#\Elixis\Elixis\obj\Debug\Elixis.dll
+D:\NSi Files\Programs\C#\Elixis\Elixis\obj\Debug\Elixis.pdb
+E:\工作区\我的项目\Ucard\Elixis\bin\Debug\Elixis.dll
+E:\工作区\我的项目\Ucard\Elixis\bin\Debug\Elixis.pdb
+E:\工作区\我的项目\Ucard\Elixis\obj\Debug\ResolveAssemblyReference.cache
+E:\工作区\我的项目\Ucard\Elixis\obj\Debug\Elixis.dll
+E:\工作区\我的项目\Ucard\Elixis\obj\Debug\Elixis.pdb
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Elixis\bin\Debug\Elixis.dll
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Elixis\bin\Debug\Elixis.pdb
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Elixis\obj\Debug\Elixis.csprojResolveAssemblyReference.cache
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Elixis\obj\Debug\Elixis.dll
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Elixis\obj\Debug\Elixis.pdb

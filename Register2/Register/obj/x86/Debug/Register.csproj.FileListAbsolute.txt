@@ -1,0 +1,23 @@
+E:\工作区\我的项目\Register\Register\bin\Debug\Register.exe
+E:\工作区\我的项目\Register\Register\bin\Debug\Register.pdb
+E:\工作区\我的项目\Register\Register\obj\x86\Debug\Register.Properties.Resources.resources
+E:\工作区\我的项目\Register\Register\obj\x86\Debug\Register.register.resources
+E:\工作区\我的项目\Register\Register\obj\x86\Debug\Register.exe
+E:\工作区\我的项目\Register\Register\obj\x86\Debug\Register.pdb
+E:\工作区\我的项目\Register\Register\bin\Debug\Elixis.dll
+E:\工作区\我的项目\Register\Register\bin\Debug\Elixis.pdb
+E:\工作区\我的项目\Register\Register\bin\Debug\IrisSkin2.dll
+E:\工作区\我的项目\Register\Register\obj\x86\Debug\Register.csprojResolveAssemblyReference.cache
+E:\工作区\我的项目\Register\Register\obj\x86\Debug\Register.TommrowRegister.resources
+E:\工作区\我的项目\Register\Register\obj\x86\Debug\Register.csproj.GenerateResource.Cache
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Register\obj\x86\Debug\Register.exe
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Register\obj\x86\Debug\Register.pdb
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Register\obj\x86\Debug\Register.csprojResolveAssemblyReference.cache
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Register\obj\x86\Debug\Register.Properties.Resources.resources
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Register\obj\x86\Debug\Register.register.resources
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Register\obj\x86\Debug\Register.TommrowRegister.resources
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Register\obj\x86\Debug\Register.csproj.GenerateResource.Cache
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Register\bin\Debug\Register.exe
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Register\bin\Debug\Register.pdb
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Register\bin\Debug\Elixis.dll
+D:\最近下载\Source Code\TEST_REGISTER\Register2\Register\bin\Debug\Elixis.pdb
