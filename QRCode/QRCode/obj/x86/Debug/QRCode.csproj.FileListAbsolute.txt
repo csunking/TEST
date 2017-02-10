@@ -1,0 +1,14 @@
+E:\DotNet211\三 Html加强，JS,Dom(牛亮亮)\3_12\自己练习\QRCode\QRCode\bin\Debug\QRCode.exe
+E:\DotNet211\三 Html加强，JS,Dom(牛亮亮)\3_12\自己练习\QRCode\QRCode\bin\Debug\QRCode.pdb
+E:\DotNet211\三 Html加强，JS,Dom(牛亮亮)\3_12\自己练习\QRCode\QRCode\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DotNet211\三 Html加强，JS,Dom(牛亮亮)\3_12\自己练习\QRCode\QRCode\obj\x86\Debug\QRCode.Form1.resources
+E:\DotNet211\三 Html加强，JS,Dom(牛亮亮)\3_12\自己练习\QRCode\QRCode\obj\x86\Debug\QRCode.Properties.Resources.resources
+E:\DotNet211\三 Html加强，JS,Dom(牛亮亮)\3_12\自己练习\QRCode\QRCode\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DotNet211\三 Html加强，JS,Dom(牛亮亮)\3_12\自己练习\QRCode\QRCode\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DotNet211\三 Html加强，JS,Dom(牛亮亮)\3_12\自己练习\QRCode\QRCode\obj\x86\Debug\QRCode.exe
+E:\DotNet211\三 Html加强，JS,Dom(牛亮亮)\3_12\自己练习\QRCode\QRCode\obj\x86\Debug\QRCode.pdb
+E:\DotNet211\三 Html加强，JS,Dom(牛亮亮)\3_12\自己练习\QRCode\QRCode\bin\Debug\DotNetBarcode.dll
+E:\DotNet211\3.Html加强，JS,Dom(牛亮亮)\3_12\自己练习\QRCode\QRCode\obj\x86\Debug\QRCode.exe
+E:\DotNet211\3.Html加强，JS,Dom(牛亮亮)\3_12\自己练习\QRCode\QRCode\obj\x86\Debug\QRCode.pdb
+D:\最近下载\Source Code\TEST_REGISTER\QRCode\QRCode\obj\x86\Debug\QRCode.exe
+D:\最近下载\Source Code\TEST_REGISTER\QRCode\QRCode\obj\x86\Debug\QRCode.pdb
